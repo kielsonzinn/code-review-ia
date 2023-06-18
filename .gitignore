@@ -1,1 +1,5 @@
 .idea/
+dados/correct.json
+dados/incorrect.json
+dados/correct_testing.json
+dados/incorrect_testing.json
