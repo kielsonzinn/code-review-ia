@@ -3,6 +3,12 @@
 - python >= 3.9
 - ctags
 
+# TODOS
+
+- Verificar para usar o bag of words
+- Deixar a quantidade de dados incorretos e corretos o mais proximo possivel, tipo 2k de correto entoa 2k de incorreto, pegar o maximo de incorreto e o maximo de correto, e deixar o numero igual
+- Analisar se a lib do python traz mais resultados
+
 # Pre processamento
 
 - Execute o extract.py passando 2 argumentos
