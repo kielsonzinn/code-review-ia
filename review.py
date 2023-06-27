@@ -55,6 +55,7 @@ def main():
     dados_corretos = carregar_dados(arquivo_corretos)
     dados_incorretos = carregar_dados(arquivo_incorretos)
 
+    #TODO TRATAR PARA SE NAO TIVER OS DADOS NECESSARIOS NAO CRASHAR, TIPO SE TIVER SO 1000 CORRETOS, PEGAR 1000 E NAO TENTAR PEGAR 1000
     dados_corretos = dados_corretos[:8000]
     dados_incorretos = dados_incorretos[:1000]
 
